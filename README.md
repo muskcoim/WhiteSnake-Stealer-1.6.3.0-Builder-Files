@@ -1,5 +1,5 @@
-# WhiteSneak-Stealer-Builder-Files
-White Sneak 1.6.3.0 version Stealer Builder Files
+# WhiteSnake-Stealer-Builder-Files
+White Snake 1.6.3.0 version Stealer Builder Files
 WhiteSnake APT Stealer is a malicious software, or malware, designed to steal sensitive information from infected computers. It's a relatively new threat that has gained notoriety for its ability to target a wide range of data, including:
 
 Browser data: Passwords, cookies, credit card information
@@ -15,5 +15,7 @@ Identity theft
 Financial fraud
 Extortion
 Unauthorized access to accounts
+
+
 Disclaimer: We are not responsible for the use of this tool. It is purely for educational purposes.
 
